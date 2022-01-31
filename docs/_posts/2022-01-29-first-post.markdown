@@ -13,8 +13,7 @@ Then i found out about gatsby in my head i think gatsby should do the job. After
 Finally i found this amazing html generator, At first i want to use some theme so i can just focus on writing my blog. I didn't find any theme that match my taste. Then i decided to create my own i this is the theme that i came out with
 
 ___
-
-![my blog](/assets/img/myblog.png)
+[<img src="/assets/img/myblog.png" width="100%"/>](/assets/img/myblog.png)
 
 ___
 not great just work and simple, that all i want and i will use this for the rest of the year. Wish me luck, i hope i will getting better programmer and game developer.
